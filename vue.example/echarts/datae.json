@@ -1,0 +1,104 @@
+[
+  {
+    "name": "天津市",
+    "treeID": "1",
+    "parent": null,
+    "treeName": "天津市_1"
+  },
+  {
+    "name": "和平区",
+    "treeID": "1-1",
+    "parent": "1",
+    "treeName": "和平区_1-1"
+  },
+  {
+    "name": "河东区",
+    "treeID": "1-2",
+    "parent": "1",
+    "treeName": "河东区_1-2"
+  },
+  {
+    "name": "河西区",
+    "treeID": "1-3",
+    "parent": "1",
+    "treeName": "河西区_1-3"
+  },
+  {
+    "name": "南开区",
+    "treeID": "1-4",
+    "parent": "1",
+    "treeName": "南开区_1-4"
+  },
+  {
+    "name": "河北区",
+    "treeID": "1-5",
+    "parent": "1",
+    "treeName": "河北区_1-5"
+  },
+  {
+    "name": "红桥区",
+    "treeID": "1-6",
+    "parent": "1",
+    "treeName": "红桥区_1-6"
+  },
+  {
+    "name": "东丽区",
+    "treeID": "1-7",
+    "parent": "1",
+    "treeName": "东丽区_1-7"
+  },
+  {
+    "name": "西青区",
+    "treeID": "1-8",
+    "parent": "1",
+    "treeName": "西青区_1-8"
+  },
+  {
+    "name": "津南区",
+    "treeID": "1-9",
+    "parent": "1",
+    "treeName": "津南区_1-9"
+  },
+  {
+    "name": "北辰区",
+    "treeID": "1-10",
+    "parent": "1",
+    "treeName": "北辰区_1-10"
+  },
+  {
+    "name": "武清区",
+    "treeID": "1-11",
+    "parent": "1",
+    "treeName": "武清区_1-11"
+  },
+  {
+    "name": "宝坻区",
+    "treeID": "1-12",
+    "parent": "1",
+    "treeName": "宝坻区_1-12"
+  },
+  {
+    "name": "滨海新区",
+    "treeID": "1-13",
+    "parent": "1",
+    "treeName": "滨海新区_1-13"
+  },
+  {
+    "name": "宁河区",
+    "treeID": "1-14",
+    "parent": "1",
+    "treeName": "宁河区_1-14"
+  },
+  {
+    "name": "静海区",
+    "treeID": "1-15",
+    "parent": "1",
+    "treeName": "静海区_1-15"
+  },
+  {
+    "name": "蓟州区",
+    "treeID": "1-16",
+    "parent": "1",
+    "treeName": "蓟州区_1-16"
+  }
+]
