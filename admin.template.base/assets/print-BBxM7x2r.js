@@ -1,0 +1,1 @@
+import"./vue-DSB24BnW.js";import{d as n,r as e,v as s,h as r,c,i,o as p}from"./@vue-CmN6Z9lx.js";import"./ace-builds-DiBK84cm.js";const _={class:"p20 h100"},h=n({__name:"print",setup(l){e(),e(),e("");const t=o=>{console.log("e :>> ",o)};return e({}),s({activeDate:""}),(o,m)=>{const a=r("EasyPrint");return p(),c("div",_,[i(a,{onHandleSave:t})])}}});export{h as default};

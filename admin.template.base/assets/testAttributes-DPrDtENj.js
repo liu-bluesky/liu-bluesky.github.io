@@ -1,0 +1,1 @@
+import"./vue-DSB24BnW.js";import{d as e,v as r,c as s,t as o,o as a}from"./@vue-CmN6Z9lx.js";import"./ace-builds-DiBK84cm.js";const u=e({__name:"testAttributes",props:{msg:{type:String,required:!0}},setup(n){return r({}),(t,p)=>(a(),s("div",null,o(t.$attrs),1))}});export{u as default};
