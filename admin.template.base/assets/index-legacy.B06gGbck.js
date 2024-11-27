@@ -1,1 +1,0 @@
-System.register(["./vue-legacy.B4Qqu2kk.js","./@vue-legacy.BXDSVpdI.js","./ace-builds-legacy.C216q4vo.js"],(function(e,s){"use strict";var t,u,l,n;return{setters:[null,e=>{t=e.d,u=e.v,l=e.c,n=e.o},null],execute:function(){e("default",t({__name:"index",props:{msg:{type:String,required:!0}},setup:e=>(u({}),(e,s)=>(n(),l("div",null," as ")))}))}}}));

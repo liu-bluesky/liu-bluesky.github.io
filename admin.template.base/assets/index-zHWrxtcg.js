@@ -1,1 +1,0 @@
-import"./vue-DSB24BnW.js";import{d as e,v as r,c as t,o}from"./@vue-CmN6Z9lx.js";import"./ace-builds-DiBK84cm.js";const m=e({__name:"index",props:{msg:{type:String,required:!0}},setup(n){return r({}),(a,p)=>(o(),t("div",null," as "))}});export{m as default};

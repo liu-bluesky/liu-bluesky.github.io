@@ -1,0 +1,1 @@
+System.register([],(function(e,p){"use strict";return{execute:function(){e("b",[{label:"创建人",prop:"createdBy",span:12},{label:"创建时间",prop:"createTime",span:12},{label:"更新人",prop:"updatedBy",span:12},{label:"更新时间",prop:"updatedTime",span:12}])}}}));
