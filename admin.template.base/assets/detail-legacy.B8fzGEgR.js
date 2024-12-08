@@ -1,0 +1,1 @@
+System.register(["./detail.vue_vue_type_script_setup_true_name_meterDetail_lang-legacy.D1dYXEGA.js","./vue-legacy.Bl-PfySD.js","./axios-legacy.CE4zynPM.js","./@vue-legacy.CwdyZYS1.js","./detail-legacy.BZ-pJawP.js"],(function(e,t){"use strict";return{setters:[t=>{t._,e("default",t._)},null,null,null,null],execute:function(){}}}));

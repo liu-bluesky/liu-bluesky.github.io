@@ -1,0 +1,1 @@
+import"./vue-CVNGtIj_.js";import{d as e,i as r,c as t,o}from"./@vue-4wuvJO_G.js";import"./axios-CdcsOsvR.js";const m=e({__name:"index",props:{msg:{type:String,required:!0}},setup(n){return r({}),(a,p)=>(o(),t("div",null," as "))}});export{m as default};

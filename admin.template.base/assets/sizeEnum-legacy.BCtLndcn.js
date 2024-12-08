@@ -1,1 +1,0 @@
-System.register([],(function(e,t){"use strict";return{execute:function(){(()=>{const e=new Map;e.set("default",48),e.set("small",16),e.set("large",64)})(),e("f",{style:"width:300px"}),e("d","1200px")}}}));
