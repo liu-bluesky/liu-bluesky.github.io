@@ -1,0 +1,1 @@
+import"./vue-BM9Tihka.js";import{d as e,A as r,c as s,v as o,o as a}from"./@vue-BKq3Py-p.js";import"./axios-CdcsOsvR.js";const u=e({__name:"testAttributes",props:{msg:{type:String,required:!0}},setup(n){return r({}),(t,p)=>(a(),s("div",null,o(t.$attrs),1))}});export{u as default};
