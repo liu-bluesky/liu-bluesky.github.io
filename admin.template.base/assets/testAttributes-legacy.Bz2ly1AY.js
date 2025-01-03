@@ -1,1 +1,0 @@
-System.register(["./vue-legacy.DBRrBtpm.js","./@vue-legacy.TdPVzoUZ.js","./axios-legacy.CE4zynPM.js"],(function(e,t){"use strict";var s,u,r,l,n;return{setters:[null,e=>{s=e.d,u=e.A,r=e.c,l=e.v,n=e.o},null],execute:function(){e("default",s({__name:"testAttributes",props:{msg:{type:String,required:!0}},setup:e=>(u({}),(e,t)=>(n(),r("div",null,l(e.$attrs),1)))}))}}}));
