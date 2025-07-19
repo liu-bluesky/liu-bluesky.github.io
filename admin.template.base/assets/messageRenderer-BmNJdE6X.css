@@ -1,0 +1,1 @@
+@charset "UTF-8";.message-renderer .message-text p{line-height:1.5}.message-renderer .code-block{position:relative;padding:10px}.message-renderer .copy-btn{position:absolute;top:4px;right:8px;background:#525252;color:#fff;border:none;padding:4px 8px;border-radius:4px;cursor:pointer;opacity:0;transition:opacity .3s}.message-renderer .code-block:hover .copy-btn{opacity:1}
